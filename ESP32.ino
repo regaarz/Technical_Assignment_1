@@ -58,5 +58,5 @@ void loop() {
     Serial.println("Error in WiFi connection");
   }
 
-  delay(1000); // Kirim data setiap 60 detik
+  delay(1000); 
 }
